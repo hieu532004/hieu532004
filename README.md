@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/trung-hiếu-dương-634b76338)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/trung-hi%E1%BA%BFu-d%C6%B0%C6%A1ng-634b76338/?trk=public-profile-join-page)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://x.com/Hieudtpd07783)
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:hieu532004@gmail.com)
 
