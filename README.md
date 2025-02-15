@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi there, I'm Hieu!
 
-<!--
-**hieu532004/hieu532004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a love for creating beautiful and functional software. Here you'll find my latest projects, contributions, and more. Feel free to explore and connect with me!
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=hieu532004&color=brightgreen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 I’m currently learning **Full Stack Development**
+- 💬 Ask me about **JavaScript, React, Node.js, and C#**
+- 📫 How to reach me: **hieu532004@example.com**
+- ⚡ Fun fact: I love watching sci-fi movies and exploring new technologies!
+
+## 🛠️ My Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+## 📈 GitHub Stats
+
+![Hieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hieu532004&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=hieu532004&theme=onedark)
+
+## 📂 Featured Repositories
+
+### 1. [Awesome Project](https://github.com/hieu532004/awesome-project)
+![Awesome Project](https://github-readme-stats.vercel.app/api/pin/?username=hieu532004&repo=awesome-project&theme=radical)
+
+### 2. [Cool Library](https://github.com/hieu532004/cool-library)
+![Cool Library](https://github-readme-stats.vercel.app/api/pin/?username=hieu532004&repo=cool-library&theme=radical)
+
+### 3. [Innovative Tool](https://github.com/hieu532004/innovative-tool)
+![Innovative Tool](https://github-readme-stats.vercel.app/api/pin/?username=hieu532004&repo=innovative-tool&theme=radical)
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hieu532004)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/hieu532004)
+[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:hieu532004@example.com)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
