@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 - 🌱 I’m currently learning **Full Stack Development**
 - 💬 Ask me about **JavaScript, React, Node.js, and C#**
-- 📫 How to reach me: **hieu532004@example.com**
+- 📫 How to reach me: **hieu532004@gmail.com**
 - ⚡ Fun fact: I love watching sci-fi movies and exploring new technologies!
 
 ## 🛠️ My Tech Stack
