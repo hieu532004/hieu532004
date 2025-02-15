@@ -30,8 +30,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 📂 Featured Repositories
 
-### 1. [PetStore_Mvc8][(https://github.com/hieu532004/awesome-project)](https://github.com/hieu532004/PetStore_Mvc8.git)
-![PetStore_Mvc8](https://github-readme-stats.vercel.app/api/pin/?username=hieu532004&repo=awesome-project&theme=radical)
+### 1. [PetStore_Mvc8][(https://github.com/hieu532004/PetStore_Mvc8.git)]
+![PetStore_Mvc8](https://github.com/hieu532004/PetStore_Mvc8.git)
 
 ### 2. [Cool Library](https://github.com/hieu532004/cool-library)
 ![Cool Library](https://github-readme-stats.vercel.app/api/pin/?username=hieu532004&repo=cool-library&theme=radical)
