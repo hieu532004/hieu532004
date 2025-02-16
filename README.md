@@ -30,15 +30,32 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 📂 Featured Repositories
 
-### 1. [PetStore_Mvc8](https://github.com/hieu532004/PetStore_Mvc8.git)
-![PetStore_Mvc8](https://github-readme-stats.vercel.app/api/pin/?username=hieu532004&repo=cool-library&theme=radical)
+### 1. [PetStore_Mvc8](https://github.com/hieu532004/PetStore_Mvc8)
+![PetStore_Mvc8](https://github-readme-stats.vercel.app/api/pin/?username=hieu532004&repo=PetStore_Mvc8&theme=radical)
+- 🛠 **Technologies**: [ASP.NET MVC](https://github.com/dotnet/aspnetcore), C#
+- 📋 **Description**: An MVC application for managing a pet store, including features for inventory management, customer orders, and more.
+- 🌟 **Highlights**:
+  - Feature 1
+  - Feature 2
+  - Feature 3
 
-### 2. [Movie Apliaction](https://github.com/hieu532004/Movie-Application.git)
-![Cool Library](https://github-readme-stats.vercel.app/api/pin/?username=hieu532004&repo=cool-library&theme=radical)
+### 2. [Movie Application](https://github.com/hieu532004/Movie-Application)
+![Movie Application](https://github-readme-stats.vercel.app/api/pin/?username=hieu532004&repo=Movie-Application&theme=radical)
+- 🛠 **Technologies**: React, Node.js
+- 📋 **Description**: A web application for browsing and searching movies with detailed information and user reviews.
+- 🌟 **Highlights**:
+  - Feature 1
+  - Feature 2
+  - Feature 3
 
-### 3. [Web_Design_MyPham](https://github.com/hieu532004/innovative-tool)
-![Innovative Tool](https://github-readme-stats.vercel.app/api/pin/?username=hieu532004&repo=innovative-tool&theme=radical)
-
+### 3. [Web_Design_MyPham](https://github.com/hieu532004/Web_Design_MyPham)
+![Web_Design_MyPham](https://github-readme-stats.vercel.app/api/pin/?username=hieu532004&repo=Web_Design_MyPham&theme=radical)
+- 🛠 **Technologies**: HTML, CSS, JavaScript
+- 📋 **Description**: A responsive web design project for a cosmetics store, showcasing products and providing a seamless shopping experience.
+- 🌟 **Highlights**:
+  - Feature 1
+  - Feature 2
+  - Feature 3
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/trung-hi%E1%BA%BFu-d%C6%B0%C6%A1ng-634b76338/?trk=public-profile-join-page)
