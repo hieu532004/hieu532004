@@ -4,7 +4,7 @@
 # 👋 Hi there, I'm Hieu!
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating beautiful and functional software. Here you'll find my latest projects, contributions, and more. Feel free to explore and connect with me!
-
+![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966](https://github.com/user-attachments/assets/35655a50-44e2-4228-a354-e8b0efb97a1d)
 ![Profile Views](https://komarev.com/ghpvc/?username=hieu532004&color=brightgreen)
 
 ## 🚀 About Me
