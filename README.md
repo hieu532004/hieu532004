@@ -5,7 +5,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating beautiful and functional software. Here you'll find my latest projects, contributions, and more. Feel free to explore and connect with me!
 
-![Profile Views](https://github.com/hieu532004)
+![Profile Views](https://camo.githubusercontent.com/3cf50de083dbc6cf17f85a078c4f0ddf4abe4a91972b2ee94d254f4803559f1f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b68616e686c696e68393532303031266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
 
 ## 🚀 About Me
 ![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966](https://github.com/user-attachments/assets/35655a50-44e2-4228-a354-e8b0efb97a1d)
