@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ![Profile Views](https://github.com/hieu532004)
 
 ## 🚀 About Me
-
+![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966](https://github.com/user-attachments/assets/35655a50-44e2-4228-a354-e8b0efb97a1d)
 - 🌱 I’m currently learning **Full Stack Development**
-- 💬 Ask me about **JavaScript, React, Node.js, and C#** ![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966](https://github.com/user-attachments/assets/35655a50-44e2-4228-a354-e8b0efb97a1d)
+- 💬 Ask me about **JavaScript, React, Node.js, and C#** 
 - 📫 How to reach me: **hieu532004@gmail.com**
 - ⚡ Fun fact: I love watching sci-fi movies and exploring new technologies!
 
